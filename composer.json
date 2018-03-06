@@ -1,0 +1,20 @@
+{
+    "name": "anilpavuluri441/bmi",
+    "description": "demo",
+    "license": "MIT",
+    "autoload": {
+        
+        "psr-4": {
+            "App\\": "app/",
+            "anilpavuluri441\\BMI\\": "packages/anilpavuluri441/BMI/src"
+        }
+    },
+    "authors": [
+        {
+            "name": "anilpavuluri441",
+            "email": "anil1964000@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
